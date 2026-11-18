@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-4409-1376"
 repository-code: "https://github.com/aarifcolakoglu-research/helmet-contact-force-analysis"
 license: PolyForm-Noncommercial-1.0.0
-version: "1.0.1"
+version: "1.0"
 date-released: "2026-11-18"
 abstract: "Analysis code and force data for helmet–head-model contact-force experiments on a patient-derived expanding head model fitted with a 12-sensor instrumented cranial helmet (Figure 5, Figures S9–S12 and Table S4 of the associated article)."
 keywords:
