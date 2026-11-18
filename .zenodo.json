@@ -1,0 +1,22 @@
+{
+  "title": "Helmet contact force analysis",
+  "upload_type": "software",
+  "description": "Analysis code and force data for helmet–head-model contact-force experiments on a patient-derived expanding head model fitted with a 12-sensor instrumented cranial helmet (Figure 5, Figures S9–S12 and Table S4 of the associated article).",
+  "creators": [
+    {
+      "name": "Colakoglu, Ahmet Arif",
+      "affiliation": "University of Leeds",
+      "orcid": "0000-0002-4409-1376"
+    }
+  ],
+  "license": "polyform-noncommercial-1.0.0",
+  "keywords": [
+    "craniosynostosis",
+    "cranial orthosis",
+    "helmet therapy",
+    "tactile sensors",
+    "Hall effect",
+    "in vitro model"
+  ],
+  "access_right": "open"
+}

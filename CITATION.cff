@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software."
+title: "Helmet contact force analysis"
+type: software
+authors:
+  - family-names: Colakoglu
+    given-names: Ahmet Arif
+    affiliation: University of Leeds
+    orcid: "https://orcid.org/0000-0002-4409-1376"
+repository-code: "https://github.com/aarifcolakoglu-research/helmet-contact-force-analysis"
+license: PolyForm-Noncommercial-1.0.0
+version: "1.0.1"
+date-released: "2026-11-18"
+abstract: "Analysis code and force data for helmet–head-model contact-force experiments on a patient-derived expanding head model fitted with a 12-sensor instrumented cranial helmet (Figure 5, Figures S9–S12 and Table S4 of the associated article)."
+keywords:
+  - craniosynostosis
+  - cranial orthosis
+  - helmet therapy
+  - tactile sensors
+  - Hall effect
+  - in vitro model
+preferred-citation:
+  type: article
+  title: "Evaluation of an Instrumented Helmet for Measurement of Orthosis–Head Interface Forces in Pediatric Craniosynostosis"
+  authors:
+    - family-names: Colakoglu
+      given-names: Ahmet Arif
+  # journal, year, doi: to be added on publication
